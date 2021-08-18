@@ -10,4 +10,6 @@ Project Pipeline
 1. Build a database: A database was built using Microsoft SQL Server Management studio. 
    The datasets used to build this database was gotten from here https://www.absentdata.com/wp-content/uploads/2021/05/hotel_revenue_historical_full.xlsx
    The created database is called Hotel Analysis. A total of five tables were created using the dat from the excel file.
-2. Develop the sql query: Exploration of the databse was done by writting sql queries to find out more about the datasets and find answers to our questions.
+2. Develop the sql query: Exploration of the databse was done by writting sql queries to find out more about the datasets and find answers to our questions. This repository contains two sql scripts files one containing the full scripts including the exploration and the other containing the sql query written to connect the database to PowerBI.
+3. C
+4. 
