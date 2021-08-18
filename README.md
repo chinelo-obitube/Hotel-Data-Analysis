@@ -5,3 +5,9 @@ Data Projects
 a. Is our hotel revenue growing by year? there are two hotel types and there is a need to segment revenue by hotel type
 b. Should we increase our parking lot size? understand if there is a trend is guest with personal cars
 c. What trends can we see in the data? average daily rate(adr)
+
+Project Pipeline 
+1. Build a database: A database was built using Microsoft SQL Server Management studio. 
+   The datasets used to build this database was gotten from here https://www.absentdata.com/wp-content/uploads/2021/05/hotel_revenue_historical_full.xlsx
+   The created database is called Hotel Analysis. A total of five tables were created using the dat from the excel file.
+2. 
