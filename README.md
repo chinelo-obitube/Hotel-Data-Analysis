@@ -17,4 +17,4 @@ Project Pipeline
 
 4. Visulaize the data: PowerBI was used to visualize the data in order to find answers to questions.
 
-5. Summarize Findings
+5. Summarize Findings: An upward trend was seen in the reveniue by year especially seaspnality peaks in the summer.
