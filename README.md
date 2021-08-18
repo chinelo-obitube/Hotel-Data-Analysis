@@ -18,3 +18,4 @@ Project Pipeline
 4. Visulaize the data: PowerBI was used to visualize the data in order to find answers to questions.
 
 5. Summarize Findings: An upward trend was seen in the reveniue by year especially seaspnality peaks in the summer.
+6. There is no significant need to increase parking spaces because the total required parking spaces only amounted to 2.36% of the total nights.
